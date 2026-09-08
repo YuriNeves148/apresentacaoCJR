@@ -1,2 +1,3 @@
 # Uma breve apresentação sobre mim e o que já fiz
-E necessário apenas clonar o repositório e utilizar o LiveServer para abrir o site.
+Acesse o site aqui:  https://yurineves148.github.io/apresentacaoCJR/
+Caso queira de outra forma, clone o repositório e utilize o LiveServer para abrir o site.
